@@ -36,7 +36,7 @@ This repository contains the code for a full-stack real-time chat application wi
 
 4. **Set up your MongoDB Database**
 
-   - Open MongoDB Compass and connect MongoDB with `Your mongoDB link` and change the `MONGO_DB_URL` in .env file with your link
+   - Open MongoDB Compass and connect MongoDB with `Your mongoDB link`
 
 5. **Start the Backend Server**
 
