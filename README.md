@@ -1,5 +1,5 @@
 
-# Full-Stack Real-time Chat App with iOS Notifications
+# Full-Stack Real-time Chat App.
 
 This repository contains the code for a full-stack real-time chat application with the following features:
 
